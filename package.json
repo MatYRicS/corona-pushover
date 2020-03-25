@@ -1,0 +1,25 @@
+{
+  "name": "corona-pushover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "eslint": "eslint"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lowdb": "^1.0.0",
+    "moment": "^2.24.0",
+    "pushover-notifications": "^1.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-node": "^4.0.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^2.0.1"
+  }
+}
